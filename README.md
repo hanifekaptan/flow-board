@@ -14,7 +14,7 @@ Flow-Board, kişisel görevlerinizi yönetmek, organize olmak ve hedeflerinize u
 
 Flow-Board'u denemek için herhangi bir kurulum yapmanıza gerek yok. Aşağıdaki bağlantıya tıklayarak uygulamayı doğrudan tarayıcınızda kullanmaya başlayabilirsiniz:
 
-**[➡️ Flow-Board'u Aç](https://hanifekaptan.github.io/Flow-Board/)**
+**[➡️ Flow-Board'u Aç](https://hanifekaptan.github.io/flow-board/)**
 
 *Not: Tüm verileriniz sadece sizin tarayıcınızda (yerel olarak) saklanır ve hiçbir yere gönderilmez.*
 
@@ -78,6 +78,7 @@ npm start
 | Instagram | LinkedIn | GitHub |
 | --- | --- | --- |
 | [@hife.init](https://instagram.com/hife.init/) | [Profil](https://linkedin.com/in/hanifekaptan) | [Flow-Board Repo](https://github.com/hanifekaptan/Flow-Board) |
+
 
 
 
